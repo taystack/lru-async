@@ -1,6 +1,6 @@
 {
-  "name": "fn-lru",
-  "version": "1.0.0",
+  "name": "@taystack/lru-async",
+  "version": "0.0.1",
   "description": "LRU cache for async functions using primitive arguments.",
   "main": "dist/index.js",
   "author": "taystack",
